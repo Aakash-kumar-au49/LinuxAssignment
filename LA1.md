@@ -164,13 +164,7 @@ Describe the Command:
 *   rm -r: It is used to remove directories and their contents recursively.
 *   folder/\*: Removes all contents inside the "folder" directory.
 
-  
-
-  
-
-  
-
-  
+![](https://lh7-us.googleusercontent.com/3SlfBm_k0rNP7rb_M6RKfLdQr5ngXSSt07t8_cqYpWJJ6ebxB7yqP1o9CCfcydGOokZ74fEMsWJUaRJJMFND8D4C5VeZC4Hb4RlRLMgbfZjUkWrWx6OGQPicSUt_s9IqL35FyWhYA1fY5rBaB06FaSU)
 
   
 
